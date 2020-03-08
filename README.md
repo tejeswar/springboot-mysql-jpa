@@ -31,6 +31,10 @@ spring.datasource.url=jdbc:mysql://localhost:3306/demodb?useSSL=false
 So I just connected to the mysql db and created the db with name demodb
 CREATE SCHEMA `demodb` ;
 
+you can find the video recording in the below location
+My Drive => Google-Vid => Springboot-mysql-jpa
+https://drive.google.com/open?id=18CTxIG8xYqHItggZBgx-C7bQzQv1RJEQ
+
 
 
 
